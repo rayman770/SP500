@@ -1,2 +1,2 @@
 # S&P 500 Time Series Analysis
-![SP500.jpg](attachment:SP500.jpg)
+![Image of S&P 500](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.capitalwatch.com%2F202007%2F09%2F5f0784ac7344b.jpg&imgrefurl=https%3A%2F%2Fwww.capitalwatch.com%2Farticle-6009-1.html&tbnid=CVX_O-8i_dXlmM&vet=12ahUKEwiw1fidnejsAhXLNt8KHd_hBBwQMyhZegUIARClAQ..i&docid=wIJM-5uDMJImaM&w=2309&h=1299&q=s%26p%20500&ved=2ahUKEwiw1fidnejsAhXLNt8KHd_hBBwQMyhZegUIARClAQ)
