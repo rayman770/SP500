@@ -14,8 +14,8 @@
 - Low: Lowest price at which a stock traded during the trading day
 
 #### Project Content
-- [Volume Weighted Average Price (VWAP)](#Volume-Weighted-Average-Price-(VWAP))
-- [Averages by Day of Week](#Averages-by-Day-of-Week)
-- [Simple Moving Average (SMA)](#Simple-Moving-Average-(SMA))
-- [Weighted Moving Average (WMA)](#Weighted_Moving_Average_(WMA))
-- [Exponential Moving Average (EMA)](#Exponential-Moving-Average-(EMA))
+- Volume Weighted Average Price (VWAP)
+- Averages by Day of Week
+- Simple Moving Average (SMA)
+- Weighted Moving Average (WMA)
+- Exponential Moving Average (EMA)
